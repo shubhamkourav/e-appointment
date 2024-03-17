@@ -1,0 +1,17 @@
+{
+    "site": {
+        "title": "E-appointment",
+        "base_url": "/",
+        "favicon": "/favicon.ico",
+        "logo_full": "/images/logo_full.png",
+        "logo": "/images/logo.png",
+        "logo_width": "210",
+        "logo_height": "60",
+        "logo_text": "E-appointment"
+      },
+      "metadata": {
+        "meta_author": "Coders Corners",
+        "meta_image": "images/favicon.png",
+        "meta_description": "Our Website Development Expertise at Your Service"
+      }
+}
